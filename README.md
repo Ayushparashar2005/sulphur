@@ -1,6 +1,8 @@
 # neomax
 
 A new Flutter project.
+made a app to sync bus stops with geolocation
+gonna get  google api soon 
 
 ## Getting Started
 
